@@ -26,7 +26,7 @@ I am a  Full Stack Developer  passionate about creating modern and scalable web 
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,ts,js,express,laravel,fastapi,prisma,postgres,mysql,)](https://skillicons.dev)
 
-**DevOps y Otros**
+**DevOps & Others**
 
 
   [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
