@@ -42,7 +42,7 @@ I have 2 years experience in software develop with react and typescript
  ## 📈 Currently working in
 - A medical appointment scheduling system using Next.js, TypeScript, and Laravel.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoDV-a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ## 📚 Learning
