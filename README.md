@@ -18,7 +18,7 @@ I have 2 years experience in software develop with react and typescript
 **Frontend**
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nextjs,react,sass,tailwind,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,sass,tailwind,vue)](https://skillicons.dev)
 
 
 
