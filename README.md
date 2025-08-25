@@ -31,15 +31,15 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 ---
 
 ## 📚 Currently learning  
-- 🧩 **Inteligencia Artificial e Iknowledge engineering**  
+- 🧩 **Artificial intelligence & Iknowledge engineering**  
 - 🔗 **Neural networks**  
 
 ---
 
 ## 🧰 Some projects  
 
-- [📌 Sistema de Agenda Médica](https://github.com/AlejoDV-a/MediDash) – Medical appointment scheduling system  
-- [📌 Panel de administración con Laravel + Bootstrap](https://github.com/AlejoDV-a/Agenda_citas) – Admin panel for managing appointments  
+- (https://github.com/AlejoDV-a/MediDash) – Medical appointment scheduling system  
+- (https://github.com/AlejoDV-a/Agenda_citas) – Admin panel for managing appointments  
 
 ---
 
