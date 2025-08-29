@@ -51,3 +51,14 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 ---
 
 ✨ Thanks for visiting my profile! I’m always open to collaborating on **new projects** or **interesting ideas** 🚀
+
+
+
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
