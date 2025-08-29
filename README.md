@@ -9,53 +9,52 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineering+Student;Always+learning+new+things+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Informatic+Engineering+Student">
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack  
 
-**Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,vue,tailwind,sass)](https://skillicons.dev)
+ **Frontend**  
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,vue,tailwind,sass)](https://skillicons.dev)
 
 **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,laravel,fastapi,prisma,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,laravel,fastapi,prisma,postgres,mysql,firebase,azure)](https://skillicons.dev)
 
 **DevOps & Tools**  
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman,tensorflow,grafana,aws)](https://skillicons.dev)
 
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Currently working on  
 - 🤖 **development of business chat with AI and other APIS** using **Next.js**, **Supabase**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Currently learning  
 - 🧩 **Artificial intelligence & Iknowledge engineering**  
 - 🔗 **Neural networks**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧰 Some projects  
 
 - (https://github.com/AlejoDV-a/MediDash) – Medical appointment scheduling system  
 - (https://github.com/AlejoDV-a/Agenda_citas) – Admin panel for managing appointments  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Contact me  
+<p align="center" style="margin-top: 15px;">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroVelascoDev&langs_count=1000000000000&show_icons=true&locale=en&layout=compact&theme=algolia&text_color=efefef&bg_color=24292e" width="30%" alt="NevuWuaze Top Languages">
 
-- ✉️ **Email:** alejandrovdv489@gmail.com  
-- 🌐 **Portfolio:** [dalexdev.online](https://dalexdev.online)  
+</p>
 
----
-
-✨ Thanks for visiting my profile! I’m always open to collaborating on **new projects** or **interesting ideas** 🚀
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
