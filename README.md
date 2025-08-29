@@ -3,7 +3,10 @@
 🎓 **Software Engineering student** and 💻 **Full Stack Developer** passionate about building modern, scalable, and efficient web solutions.  
 I enjoy working on both **frontend** and **backend**, always focusing on great user experience, clean architecture, and code efficiency.  
 I have **2 years of experience** developing software with **React, Next.js, vue.js** &  **Laravel, Nest.js, Spring**.  
-
+  <p align="center">
+  <a href="https://dalexdev.online"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="mailto:alejandrovdv489@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-0E8AAA?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineering+Student;Always+learning+new+things+🚀">
