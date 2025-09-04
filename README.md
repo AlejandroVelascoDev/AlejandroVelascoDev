@@ -6,7 +6,7 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
   <p align="center">
   <a href="https://dalexdev.online"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="mailto:alejandrovdv489@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-0E8AAA?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://21st.dev/community/DalexDev"><img src="https://img.shields.io/badge/%2021st-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://21st.dev/DalexDev/?ref=alejandro"><img src="https://img.shields.io/badge/%2021st-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -48,7 +48,7 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 - (https://github.com/AlejoDV-a/Agenda_citas) – Admin panel for managing appointments
 
   ## I have created some components for the 21st community!
-  <a href="https://21st.dev/community/DalexDev"><img src="https://img.shields.io/badge/%2021st_DalexDev-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://21st.dev/DalexDev/?ref=alejandro"><img src="https://img.shields.io/badge/%2021st_DalexDev-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
