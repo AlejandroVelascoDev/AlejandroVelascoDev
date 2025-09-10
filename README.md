@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alejandro Velasco  
 
-🎓 **Informatic Engineering student** and 💻 **Full Stack Developer**  building modern, scalable, and efficient webs.  
+🎓 **Informatic Engineering student** and 💻 **Software Developer**  building modern, scalable, and efficient webs.  
 I enjoy working on both **frontend** and **backend**, always focusing on great user experience, clean architecture, and code efficiency.  
 I have **2 years of experience** developing software with **React, Next.js, vue.js** &  **Laravel, Nest.js, Spring**.  
   <p align="center">
