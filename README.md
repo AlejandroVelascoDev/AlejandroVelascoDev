@@ -10,7 +10,7 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Informatic+Engineering+Student">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Informatic+Engineering+Student">
   </a>
 </p>
 
