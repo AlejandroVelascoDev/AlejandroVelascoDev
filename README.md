@@ -32,7 +32,7 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Currently working on  
-- 🤖 **development of business chat with AI and other APIS** using **Next.js**, **Supabase**  
+- Syself
 
 <a src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <a/> 
 
