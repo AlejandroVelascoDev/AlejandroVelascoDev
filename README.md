@@ -19,13 +19,13 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 ## 🛠️ Tech Stack  
 
  **Frontend**  
- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,nextjs,angular,vue,tailwind,sass)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,react,nextjs,tailwind)](https://skillicons.dev)
 
 **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,laravel,fastapi,prisma,postgres,mysql,firebase,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,python,laravel,fastapi,postgres,mysql)](https://skillicons.dev)
 
 **DevOps & Tools**  
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman,tensorflow,grafana,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
 
 
 
