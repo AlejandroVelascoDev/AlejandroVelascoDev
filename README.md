@@ -40,7 +40,6 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 - 🧩 **Artificial intelligence & Iknowledge engineering**  
 - 🔗 **Neural networks**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroVelascoDevlayout=compact)
 
 ## 🧰 Some projects  
 
