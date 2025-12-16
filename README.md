@@ -7,6 +7,9 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
   <a href="https://dalexdev.online"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="mailto:alejandrovdv489@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-0E8AAA?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://21st.dev/DalexDev/?ref=alejandro"><img src="https://img.shields.io/badge/%2021st-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@DalexDev" target="_blank">
+  <img src="https://img.shields.io/badge/DalexDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
