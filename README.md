@@ -56,7 +56,6 @@ I have **2 years of experience** developing software with **React, Next.js, vue.
 
 <p align="center" style="margin-top: 15px;">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroVelascoDev&langs_count=1000000000000&show_icons=true&locale=en&layout=compact&theme=algolia&text_color=efefef&bg_color=24292e" width="30%" alt="NevuWuaze Top Languages">
 
 </p>
 
