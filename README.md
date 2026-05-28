@@ -1,71 +1,80 @@
-# 👋 Hi, I'm Alejandro Velasco  
+<h1 align="center">Hey 👋 I'm Alejandro</h1>
 
-🎓 **Informatic Engineering student** and 💻 **Software Developer**  building modern, scalable, and efficient webs.  
-I enjoy working on both **frontend** and **backend**, always focusing on great user experience, clean architecture, and code efficiency.  
-I have **2 years of experience** developing software with **React, Next.js, vue.js** &  **Laravel, Nest.js, Spring**.  
-  <p align="center">
-  <a href="https://dalexdev.online"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="mailto:alejandrovdv489@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-0E8AAA?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://21st.dev/DalexDev/?ref=alejandro"><img src="https://img.shields.io/badge/%2021st-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.youtube.com/@DalexDev" target="_blank">
-  <img src="https://img.shields.io/badge/DalexDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-</p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Informatic+Engineering+Student">
+  Software Engineer · Frontend & Backend · Web Apps · Native · AI
+</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandro-vs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-</p>
+  <a href="mailto:alejandrovdv489@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
 
-## 🛠️ Tech Stack  
+### 🚀 About Me
 
- **Frontend**  
- [![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,react,nextjs,tailwind)](https://skillicons.dev)
+```txt
+Frontend & Full-Stack Developer based in Colombia 🇨🇴
+Currently @ Syself (Germany) 
+Building web apps with SvelteKit, React, Next.js & TypeScript
+Backend: Node.js · NestJS · Spring · Express · REST APIs · Docker · AWS 
+Cloud: AWS Certified Machine Learning Specialist
+AI/ML: Generative AI · Python · Trained & certified
+Computer Engineering student @ UNIR
+```
 
-**Backend**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,python,laravel,fastapi,postgres,mysql)](https://skillicons.dev)
+###
 
-**DevOps & Tools**  
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
+### 🛠️ What I've Built
 
+- **Neura** — Client-facing web platform with Next.js, React, TypeScript & Tailwind CSS
+- **IntervencioAVPC** — Custom software for a Spanish public entity focused on vital support services
+- **Minechecker** — REST API to monitor Minecraft server status with Express.js + Docker
+- **GestiON** — SaaS POS System backend with NestJS
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Currently working on  
-- Syself
-
-<a src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <a/> 
-
-## 📚 Currently learning  
-- 🧩 **Artificial intelligence & Iknowledge engineering**  
-- 🔗 **Neural networks**  
+###
 
 
-## 🧰 Some projects  
+###
 
-- (https://github.com/AlejoDV-a/MediDash) – Medical appointment scheduling system  
-- (https://github.com/AlejoDV-a/Agenda_citas) – Admin panel for managing appointments
 
-  ## I have created some components for the 21st community!
-  <a href="https://21st.dev/DalexDev/?ref=alejandro"><img src="https://img.shields.io/badge/%2021st_DalexDev-000000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" style="margin-top: 15px;">
-  
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
