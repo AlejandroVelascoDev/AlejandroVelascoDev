@@ -62,7 +62,7 @@ Computer Engineering student @ UNIR
 ### 🛠️ What I've Built
 
 - **Neura** — Client-facing web platform with Next.js, React, TypeScript & Tailwind CSS
-- **IntervencioAVPC** — Custom software for a Spanish public entity focused on vital support services
+- **IntervencioAVPC** — Custom software for a Spanish public entity focused on vital support services (Next.js, Node.js, Dokploy, VPS)
 - **Minechecker** — REST API to monitor Minecraft server status with Express.js + Docker
 - **GestiON** — SaaS POS System backend with NestJS
 
